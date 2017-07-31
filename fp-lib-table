@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name unchecked)(type KiCad)(uri /Users/matthew.harrold/Documents/Devel/agg-kicad/agg.pretty/unchecked.pretty)(options "")(descr ""))
+  (lib (name OrangeStack-DualDisplay)(type KiCad)(uri "$(KIPRJMOD)")(options "")(descr ""))
+)
